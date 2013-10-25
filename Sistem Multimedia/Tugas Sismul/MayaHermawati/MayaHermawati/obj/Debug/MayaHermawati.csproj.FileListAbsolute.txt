@@ -1,0 +1,14 @@
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\obj\Debug\MayaHermawati.csprojResolveAssemblyReference.cache
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\obj\Debug\App.g.cs
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\obj\Debug\MayaHermawati_MarkupCompile.cache
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\bin\Debug\MayaHermawati.exe.config
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\bin\Debug\MayaHermawati.exe
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\bin\Debug\MayaHermawati.pdb
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\bin\Debug\Animator.pdb
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\obj\Debug\MainWindow.baml
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\obj\Debug\MainWindow.g.cs
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\obj\Debug\MayaHermawati.g.resources
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\obj\Debug\MayaHermawati.Properties.Resources.resources
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\obj\Debug\MayaHermawati.csproj.GenerateResource.Cache
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\obj\Debug\MayaHermawati.exe
+C:\Users\Ndru\Documents\Visual Studio 2012\Projects\maya\MayaHermawati\MayaHermawati\obj\Debug\MayaHermawati.pdb

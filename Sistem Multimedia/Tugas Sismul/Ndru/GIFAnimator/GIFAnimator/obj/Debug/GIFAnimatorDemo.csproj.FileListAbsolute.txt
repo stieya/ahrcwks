@@ -1,0 +1,14 @@
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\bin\Debug\GIFAnimatorDemo.exe
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\bin\Debug\GIFAnimatorDemo.pdb
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\bin\Debug\Animator.dll
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\bin\Debug\Animator.pdb
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\obj\Debug\GIFAnimatorDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\obj\Debug\MainWindow.baml
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\obj\Debug\MainWindow.g.cs
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\obj\Debug\App.g.cs
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\obj\Debug\GIFAnimatorDemo_MarkupCompile.cache
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\obj\Debug\GIFAnimatorDemo.g.resources
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\obj\Debug\GIFAnimatorDemo.Properties.Resources.resources
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\obj\Debug\GIFAnimatorDemo.csproj.GenerateResource.Cache
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\obj\Debug\GIFAnimatorDemo.exe
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\GIFAnimator\obj\Debug\GIFAnimatorDemo.pdb

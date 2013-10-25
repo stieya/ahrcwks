@@ -1,0 +1,12 @@
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\Animator\bin\Debug\Animator.dll
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\Animator\bin\Debug\Animator.pdb
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\Animator\obj\Debug\Animator.csprojResolveAssemblyReference.cache
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\Animator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\Animator\obj\Debug\Animator_MarkupCompile.cache
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\Animator\obj\Debug\Animator_MarkupCompile.lref
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\Animator\obj\Debug\Themes\Generic.baml
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\Animator\obj\Debug\Animator.g.resources
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\Animator\obj\Debug\Animator.Properties.Resources.resources
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\Animator\obj\Debug\Animator.csproj.GenerateResource.Cache
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\Animator\obj\Debug\Animator.dll
+C:\Users\Ndru\Downloads\Compressed\GIFAnimator\Animator\obj\Debug\Animator.pdb
