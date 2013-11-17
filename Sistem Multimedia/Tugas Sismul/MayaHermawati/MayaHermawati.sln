@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MayaHermawati", "MayaHermawati\MayaHermawati.csproj", "{D3EDDD27-45A1-410F-8F54-4AE3F1FE564D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animator", "Animator\Animator.csproj", "{FB19B412-DB0A-42C8-9123-4FF3BB2F17E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3EDDD27-45A1-410F-8F54-4AE3F1FE564D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EDDD27-45A1-410F-8F54-4AE3F1FE564D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EDDD27-45A1-410F-8F54-4AE3F1FE564D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EDDD27-45A1-410F-8F54-4AE3F1FE564D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB19B412-DB0A-42C8-9123-4FF3BB2F17E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB19B412-DB0A-42C8-9123-4FF3BB2F17E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB19B412-DB0A-42C8-9123-4FF3BB2F17E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB19B412-DB0A-42C8-9123-4FF3BB2F17E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
