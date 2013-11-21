@@ -177,7 +177,7 @@ public class CalendarPlugin extends CordovaPlugin {
 
 
 ===============================================================
-CalendarPlugin.java
+CalendarPluginSampleApp.java
 ===============================================================
 
 
